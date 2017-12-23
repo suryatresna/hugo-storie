@@ -1,0 +1,6 @@
+[submodule "theme/storie"]
+	path = theme/storie
+	url = https://github.com/suryatresna/hugo-storie
+[submodule "themes/storie"]
+	path = themes/storie
+	url = https://github.com/suryatresna/hugo-storie

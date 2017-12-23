@@ -1,0 +1,3 @@
+[submodule "storie"]
+	path = ./themes/stories
+	url = https://github.com/suryatresna/hugo-storie

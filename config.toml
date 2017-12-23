@@ -1,0 +1,5 @@
+baseURL = "http://suryatresna.asia/"
+languageCode = "en-us"
+title = "Surya Tresna"
+logo = ""
+theme = "storie"
