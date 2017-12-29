@@ -3,17 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://suryatresna.asia/blog/chatbot-technology-facebook/</loc>
+    <lastmod>2017-12-30T01:27:34+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://suryatresna.asia/blog/create-web-serverless-with-hugo/</loc>
+    <lastmod>2017-12-30T01:13:17+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://suryatresna.asia/about/</loc>
+    <lastmod>2017-12-26T15:48:32+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://suryatresna.asia/portfolio/</loc>
+    <lastmod>2017-12-26T15:48:32+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://suryatresna.asia/blog/</loc>
+    <lastmod>2017-12-30T01:27:34+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://suryatresna.asia/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://suryatresna.asia/</loc>
+    <lastmod>2017-12-30T01:27:34+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://suryatresna.asia/tags/</loc>
     <priority>0</priority>
   </url>
   
