@@ -15,6 +15,10 @@ theme = "storie"
   
   
 [params]
+  author = "Surya Tresna Agung"
+  avatar = "https://res.cloudinary.com/suryatresna/image/upload/r_0/v1514573058/profile_new_ftl8lr.jpg"
+  contact = "mailto:surya.tresna@gmail.com"
+  bio = "Freelance Web Programmer and Web Technology Enthusiast"
   logo = "https://res.cloudinary.com/suryatresna/image/upload/v1514024457/logo_xsvxgd.png"
   facebook = "suryatresna"
   github = "suryatresna"

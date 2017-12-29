@@ -1,5 +1,6 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
+description: "Dolor nulla occaecat velit duis laborum. Eu culpa cupidatat occaecat."
 date: {{ .Date }}
 draft: true
 author: "Surya Tresna"
