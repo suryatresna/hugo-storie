@@ -6,4 +6,7 @@ layout: "page"
 
 # About Me
 
-Hello guys, my name Surya and i hobby code and workaround with software
+Hello guys, Welcom to my site. My name Surya Tresna and I'm a Developer Programmer, Now working at Tokopedia with position Software Engineer.
+I love code and enjoy with code. This site i built with Hugo Framework - as you know Hugo is adoption Serverless.
+
+By the way, email me to [surya.tresna@gmail.com](mailto:surya.tresna@gmail.com) and keep in touch with me.
